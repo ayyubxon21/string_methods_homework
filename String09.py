@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s
-print(main("codeschool".index("d")))
+print(main("vashington aas".count("a")))
