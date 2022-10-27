@@ -7,4 +7,5 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s==str.upper(s)
+print(main("SALOM DUNYO SALOM G'Am"))
