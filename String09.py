@@ -7,4 +7,5 @@ def main(s):
         int: answer
     """
     
-    return
+    return s
+print(main("codeschool".find("d")))
