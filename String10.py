@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
     
-    return
+    return s
+print(main("los anjels".find("x")))
