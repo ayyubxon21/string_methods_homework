@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s
-print(main("codeschool".find("d")))
+print(main("codeschool".index("d")))
