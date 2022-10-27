@@ -10,6 +10,6 @@ def main(s):
         str: answer
     """
     
-    return s
-print(main("python programming".capitalize())) 
+    return str.capitalize(s)
+print(main("python programming")) 
     
