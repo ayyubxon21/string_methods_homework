@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return s
-print(main("apple is a fruit".upper()))
+    return str.upper(s)
+print(main("apple is a fruit"))
