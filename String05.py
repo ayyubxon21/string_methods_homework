@@ -1,3 +1,6 @@
+from re import S
+
+
 def main(s):
     """
     A str of several words is given. Return the variable capitalized.
@@ -7,4 +10,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s
+print(main("python programming".capitalize())) 
+    
