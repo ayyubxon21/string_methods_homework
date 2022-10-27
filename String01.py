@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s
-print(main("hello world".capitalize()))
+print(main("google is a search engine".title()))
