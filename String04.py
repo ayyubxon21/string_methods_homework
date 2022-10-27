@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    return s==str.title(s)
+print(main("code"))
