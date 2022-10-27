@@ -8,4 +8,4 @@ def main(s):
     """
     
     return s
-print(main("hello world".title()))
+print(main("hello world".capitalize()))
