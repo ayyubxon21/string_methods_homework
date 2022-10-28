@@ -6,6 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return s
-print(main("los anjels".find("x")))
+    return s.find("x")
+print(main("los anjels"))
