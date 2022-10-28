@@ -7,5 +7,5 @@ def main(s):
         int: answer
     """
     
-    return s
-print(main("vashington aas".count("a")))
+    return s.count("a")
+print(main("vashington aas"))
